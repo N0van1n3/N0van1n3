@@ -1,7 +1,7 @@
 ## About me
-Hello there! I am Munene John, a 21 y/o Kenyan student. I am interested in CyberSecurity, Programming and Network Security.
+Hello there! I am Margaret Githinji, a 19 y/o Kenyan student. I am interested in CyberSecurity, Programming and Network Security.
 
-#### I'm N3sh47 the _Unknown\_Techie_
+#### I'm N0van1n3 
 
 
 
@@ -10,8 +10,8 @@ Hello there! I am Munene John, a 21 y/o Kenyan student. I am interested in Cyber
 - 👯 I’m looking to collaborate on Microsoft.
 - 🤔 I’m looking for help with Python High Level Programming.
 - 💬 Ask me about anything related to Tech.
-- 📫 How to reach me: Unknown_Techie
-- 😄 Pronouns: He/Him
+- 📫 How to reach me: N0van1n3
+- 😄 Pronouns: She/Her
 - ⚡ Fun fact: All-Time N3rd!
 
 <br>
